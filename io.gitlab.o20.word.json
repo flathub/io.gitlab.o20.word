@@ -15,8 +15,8 @@
                 {
                      "type": "git",
                      "url": "https://gitlab.com/abstractsoftware/o20/o20coreapps.git",
-                     "tag": "20.2.0",
-                     "commit": "3dc809278c64a9dfc30e65c437a4993192e973ba"
+                     "tag": "20.2.0.1",
+                     "commit": "a5b7a36debb7bd29d50c7849240b940f2aff3dec"
 		}
             ]
         }

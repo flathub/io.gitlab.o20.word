@@ -1,7 +1,7 @@
 {
     "id": "io.gitlab.o20.word",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.13",
+    "runtime-version": "5.14",
     "sdk": "org.kde.Sdk",
     "command": "word64.run",
     "finish-args": ["--share=ipc", "--socket=x11", "--socket=wayland", "--device=dri", "--filesystem=xdg-documents/O20:create"],

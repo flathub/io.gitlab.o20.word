@@ -1,0 +1,21 @@
+diff --git a/dev/deploy/io.gitlab.o20.word.appdata.xml b/dev/deploy/io.gitlab.o20.word.appdata.xml
+index ead09ca..1c42341 100644
+--- a/dev/deploy/io.gitlab.o20.word.appdata.xml
++++ b/dev/deploy/io.gitlab.o20.word.appdata.xml
+@@ -22,10 +22,13 @@
+ 
+     <content_rating type="oars-1.1" />
+     <screenshots>
+-	<screenshot><image type="source">https://gitlab.com/abstractsoftware/o20/o20coreapps/raw/master/dev/deploy/screenshot01.png?iinline=false</image></screenshot>
+-        <screenshot><image type="source">https://gitlab.com/abstractsoftware/o20/o20coreapps/raw/master/dev/deploy/screenshot02.png?iinline=false</image></screenshot>
++        <screenshot type="default">
++            <image type="source">https://gitlab.com/abstractsoftware/o20/o20coreapps/raw/master/dev/deploy/screenshot01.png?iinline=false</image>
++        </screenshot>
++        <screenshot>
++            <image type="source">https://gitlab.com/abstractsoftware/o20/o20coreapps/raw/master/dev/deploy/screenshot02.png?iinline=false</image>
++        </screenshot>
+    </screenshots>
+ 
+     <url type="homepage">https://abstractsoftware.gitlab.io</url>
+-    <url type="bugtracker">https://gitlab.com/abstractsoftware/o20/o20coreapps/issues</url>
+ </component>

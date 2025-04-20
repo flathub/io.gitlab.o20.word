@@ -17,6 +17,10 @@
                      "url": "https://gitlab.com/abstractsoftware/o20/o20coreapps.git",
                      "tag": "20.2.4",
                      "commit": "b129b74c79743dc5c7707a0efc52d0925281fcc7"
+                },
+                {
+                    "type": "patch",
+                    "path": "appstream.patch"
                 }
             ],
             "config-opts": [
